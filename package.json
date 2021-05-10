@@ -1,0 +1,7 @@
+{
+  "name": "material-ui-issue",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["site", "example-theme"]
+}
